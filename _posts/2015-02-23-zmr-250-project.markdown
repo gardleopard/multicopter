@@ -31,7 +31,7 @@ Here is my planned shopping list (I have not ordered all this yet).
 You will need your own RC transmitter and receiver. FPV ground station or goggles on 5.8gHz are required to receive video from the FPV tx. 
 
 [ZMR-250-frame]: http://www.goodluckbuy.com/zmr250-250mm-carbon-fiber-4-axis-mini-quadcopter-frame-kit.html
-[SunnySky-x2204-2300KV]: http://www.multirotorsuperstore.com/motors/motors-sunnysky/sunnysky-x2204-2300kv-brushless-motor.html
+[SunnySky-x2204-2300KV]: http://www.banggood.com/Sunnysky-X2204-2300KV-Brushless-Motor-CW-CCW-For-RC-Model-p-952075.html
 [HK-BS-12A]: http://www.hobbyking.com/hobbyking/store/__11429__HobbyKing_12A_BlueSeries_Brushless_Speed_Controller.html
 [naze32]: http://www.eurorc.com/product/8651/abusemark-acro-naze32-controller-rev5
 [Gemfan 5x3]: http://www.hobbyking.com/hobbyking/store/__58251__Gemfan_5030_Multirotor_Propellers_One_Pair_CW_CCW_Black_.html
