@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "ZMR 250 Build"
+title:  "ZMR 250 Build - parts"
 date:   2015-02-23 12:32:58
-categories: quadcopter
+categories: fpv zmr250
 ---
 I'm going to build a ZMR-250 fpv quadcopter. This is a medium priced FPV platform that should perform well. 
 Here is my planned shopping list (I have not ordered all this yet).
