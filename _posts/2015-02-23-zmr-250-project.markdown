@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "ZMR 250 Build"
+date:   2015-02-23 12:32:58
+categories: quadcopter
+---
+I'm going to build a ZMR-250 fpv quadcopter. This is a medium priced FPV platform that should perform well. 
+Here is my planned shopping list (I have not ordered all this yet).
+
+# Parts
+
+- Frame [ZMR-250][ZMR-250-frame]
+- Motors (4x) [SunnySky-x2204-2300KV][SunnySky-x2204-2300KV]
+- ESCs (speed controllers, 4x) [HK-BS-12A][HK-BS-12A]
+- Flight Controller [naze32][naze32]
+- PDB [PDB][PDB]
+- Battery connector [XT60][XT60]
+- Wires for battery connector [16awg][16awg]
+- Battery [nano-tech 1400mah 3S][nano-tech 1400mah 3S]
+- Battery strap [Scorpion Lipo lock strap][Scorpion Lipo lock strap]
+- Propellers (lots) [Gemfan 5x3][Gemfan 5x3] or [Gemfan 5x4][Gemfan 5x4]
+
+# FPV gear
+- Camera [SONY 600TVL F2.8][SONY 600TVL F2.8]
+- Video TX [immersion 5.8ghz 600mW][immersion 5.8ghz 600mW]
+- OSD [SuperSimple mini OSD][SuperSimple mini OSD]
+- Antenna [SpiroNet antenna][SpiroNet antenna]
+
+# Other stuff
+
+You will need your own RC transmitter and receiver. FPV ground station or goggles on 5.8gHz are required to receive video from the FPV tx. 
+
+[ZMR-250-frame]: http://www.goodluckbuy.com/zmr250-250mm-carbon-fiber-4-axis-mini-quadcopter-frame-kit.html
+[SunnySky-x2204-2300KV]: http://www.multirotorsuperstore.com/motors/motors-sunnysky/sunnysky-x2204-2300kv-brushless-motor.html
+[HK-BS-12A]: http://www.hobbyking.com/hobbyking/store/__11429__HobbyKing_12A_BlueSeries_Brushless_Speed_Controller.html
+[naze32]: http://www.eurorc.com/product/8651/abusemark-acro-naze32-controller-rev5
+[Gemfan 5x3]: http://www.hobbyking.com/hobbyking/store/__58251__Gemfan_5030_Multirotor_Propellers_One_Pair_CW_CCW_Black_.html
+[SONY 600TVL F2.8]: http://www.securitycamera2000.com/products/600TVL-SONY-SUPER-HAD-CCD-D%252dWDR-Color-Board-Camera-with-OSD-Menu-DNR.html
+[immersion 5.8ghz 600mW]: http://www.readymaderc.com/store/index.php?main_page=product_info&products_id=266
+[SuperSimple mini OSD]: http://www.hobbyking.com/hobbyking/store/__35419__Super_Simple_Mini_OSD_System_for_FPV.html
+[PDB]: http://www.eurorc.com/product/8652/abusemark-36mm-multirotor-power-distribution-board---green
+[XT60]: http://www.hobbyking.com/hobbyking/store/__44334__Black_XT60_Male_and_Female_5_Pairs_Bag.html
+[16awg]: http://www.ebay.com/itm/10-12-14-16-20-22-Gauge-AWG-Black-Red-100cm-3-3-FT-Flexible-Silicone-Wire-Y5RG-/151347440632?pt=LH_DefaultDomain_0&var=&hash=item233d02abf8
+[nano-tech 1400mah 3S]: http://www.hobbyking.com/hobbyking/store/__20391__Turnigy_nano_tech_1400mah_3S_40_80C_Lipo_Pack_TRA2823_Traxxas_1_16_.html
+[Gemfan 5x4]: http://www.hobbyking.com/hobbyking/store/__68701__Gemfan_5040_Multirotor_Propellers_One_Pair_CW_CCW_5X4_Black_.html
+[Scorpion Lipo lock strap]: http://www.hobbyking.com/hobbyking/store/__17410__Scorpion_Lipoly_Lock_Strap_205mm_Small_x_3.html
+[SpiroNet antenna]: http://www.hobbyking.com/hobbyking/store/__49826__ImmersionRC_5_8GHz_Circular_Polarized_SpiroNet_Antenna_V2_SMA_.html
