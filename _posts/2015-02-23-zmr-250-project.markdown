@@ -28,8 +28,11 @@ Here is my planned shopping list (I have not ordered all this yet).
 
 # Other stuff
 
+- [Mobius ActionCam][Mobius ActionCam]
+
 You will need your own RC transmitter and receiver. FPV ground station or goggles on 5.8gHz are required to receive video from the FPV tx. 
 
+[Mobius ActionCam]: http://www.ebay.com/itm/151071891306
 [ZMR-250-frame]: http://www.goodluckbuy.com/zmr250-250mm-carbon-fiber-4-axis-mini-quadcopter-frame-kit.html
 [SunnySky-x2204-2300KV]: http://www.banggood.com/Sunnysky-X2204-2300KV-Brushless-Motor-CW-CCW-For-RC-Model-p-952075.html
 [HK-BS-12A]: http://www.hobbyking.com/hobbyking/store/__11429__HobbyKing_12A_BlueSeries_Brushless_Speed_Controller.html
