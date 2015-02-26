@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Tools"
+date:   2015-02-26 13:04:58
+categories: tools
+---
+# Tools I buy for my multicopters
+
+
+Handy tool for propeller nuts
+![Handy tool for propeller nuts]({{ site.baseurl }}/assets/hex-tool.jpg)
+[3Way Y Handle Hex Socket Wrench Trigeminal Repair Tool 8mm 9mm 10mm][3Way Y Handle Hex Socket Wrench Trigeminal Repair Tool 8mm 9mm 10mm]
+
+
+
+[3Way Y Handle Hex Socket Wrench Trigeminal Repair Tool 8mm 9mm 10mm]: http://www.ebay.com/itm/New-Bike-3Way-Y-Handle-Hex-Socket-Wrench-Trigeminal-Repair-Tool-8mm-9mm-10mm-/181407617108?pt=LH_DefaultDomain_15&hash=item2a3cbc9054

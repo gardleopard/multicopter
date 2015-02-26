@@ -4,7 +4,7 @@ email: multicopters@gurters.com
 description: > # this means to ignore newlines until "baseurl:"
   Multicopter stuff by gardleopard
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://multicopter.something.com" # the base hostname & protocol for your site
+url: "http://gardleopard.github.io/multicopter" # the base hostname & protocol for your site
 twitter_username: gardleopard
 github_username:  gardleopard
 baseurl: /multicopter
