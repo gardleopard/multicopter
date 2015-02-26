@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Store links"
+date:   2015-02-25 12:49:58
+categories: links stores
+---
+
+# List of stores for multicopter stuff
+
+- [EuroRC][EuroRC]
+- [HobbyKing][HobbyKing]
+- [Aloft Hobbies][Aloft Hobbies]
+- [Plasti Dip][Plasti Dip] (liquid tape)
+
+
+
+
+[EuroRC]: http://www.eurorc.com/
+[HobbyKing]: http://www.hobbyking.com
+[Aloft Hobbies]: http://www.alofthobbies.com/
+[Plasti Dip]: http://www.plastidip.no/
