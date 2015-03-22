@@ -22,7 +22,7 @@ Here is my planned shopping list (I have not ordered all this yet).
 
 # FPV gear
 - Camera [SONY 600TVL F2.8][SONY 600TVL F2.8]
-- Video TX [immersion 5.8ghz 600mW][immersion 5.8ghz 600mW]
+- Video TX [immersion 5.8ghz 600mW][immersion 5.8ghz 600mW] or [TS5823 5.8G 200mW][TS5823 5.8G 200mW]
 - OSD [SuperSimple mini OSD][SuperSimple mini OSD]
 - Antenna [SpiroNet antenna][SpiroNet antenna]
 
@@ -32,6 +32,7 @@ Here is my planned shopping list (I have not ordered all this yet).
 
 You will need your own RC transmitter and receiver. FPV ground station or goggles on 5.8gHz are required to receive video from the FPV tx. 
 
+[TS5823 5.8G 200mW]: http://www.ebay.com/itm/5-8G-200mW-TS5823-32CH-Channel-FPV-Mini-Wireless-AV-Transmitter-Module-NEW-/231471744102?pt=LH_DefaultDomain_15&hash=item35e4ca8466
 [Mobius ActionCam]: http://www.ebay.com/itm/151071891306
 [ZMR-250-frame]: http://www.goodluckbuy.com/zmr250-250mm-carbon-fiber-4-axis-mini-quadcopter-frame-kit.html
 [SunnySky-x2204-2300KV]: http://www.banggood.com/Sunnysky-X2204-2300KV-Brushless-Motor-CW-CCW-For-RC-Model-p-952075.html
